@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer | Developer | Leaner</h3>
 
 
-- 📫 How to reach me **lwsmorgan@gmail.com**
+- 📫 How to reach me **@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
