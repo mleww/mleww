@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Morgan Lew</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Programmer | Developer | Leaner</h3>
 
-- 🌱 I’m currently learning **Express and Django**
 
 - 📫 How to reach me **lwsmorgan@gmail.com**
 
-- ⚡ Fun fact **I think I am funny. I did not start my career in computing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
